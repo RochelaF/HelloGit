@@ -26,5 +26,10 @@ namespace Lesson66.Controllers
 
             return View();
         }
+
+        public void Foo()
+        {
+            
+        }
     }
 }
